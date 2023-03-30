@@ -2,7 +2,7 @@
   "name": "probanding",
   "private": true,
   "version": "0.0.0",
-  "main": "dist/index.js",
+  "main": "dist/index.html",
   "type": "module",
   "scripts": {
     "dev": "vite",
